@@ -17,6 +17,7 @@
     <modules>
         <module>../ssm-manage</module>
         <module>../ssm-commons</module>
+        <module>../spring-java</module>
     </modules>
 
     <!-- 集中定义公用的依赖版本号 -->
